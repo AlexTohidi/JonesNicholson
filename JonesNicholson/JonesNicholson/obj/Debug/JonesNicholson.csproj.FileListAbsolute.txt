@@ -1,0 +1,5 @@
+C:\Users\Alext\OneDrive\Documents\Visual Studio 2013\Projects\Revit API\JonesNicholson\JonesNicholson\bin\Debug\JonesNicholson.dll
+C:\Users\Alext\OneDrive\Documents\Visual Studio 2013\Projects\Revit API\JonesNicholson\JonesNicholson\bin\Debug\JonesNicholson.pdb
+C:\Users\Alext\OneDrive\Documents\Visual Studio 2013\Projects\Revit API\JonesNicholson\JonesNicholson\obj\Debug\JonesNicholson.csprojResolveAssemblyReference.cache
+C:\Users\Alext\OneDrive\Documents\Visual Studio 2013\Projects\Revit API\JonesNicholson\JonesNicholson\obj\Debug\JonesNicholson.dll
+C:\Users\Alext\OneDrive\Documents\Visual Studio 2013\Projects\Revit API\JonesNicholson\JonesNicholson\obj\Debug\JonesNicholson.pdb
